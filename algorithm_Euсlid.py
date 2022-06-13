@@ -11,5 +11,5 @@ def nod(a: int, b: int):
         return nod(a, b % a)
 
 
-c = nod(1234, 2468)
+c = nod(1680, 640)
 print(c)
